@@ -1,1 +1,9 @@
-# python2
+a=12
+b=53
+print(a)
+print(b)
+temp=a
+a=b
+b=temp
+print(a)
+print(b)
